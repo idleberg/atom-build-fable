@@ -51,7 +51,7 @@ Available targets:
 
 * `Fable` - transpile current file
 * `Fable config` - transpile using `fableconfig.json` in the project path
-* `Fable [user]` - transpile with custom user settings
+* `Fable [user]` - transpile with custom arguments
 
 ### Shortcuts
 
