@@ -1,6 +1,6 @@
 {
   "name": "build-fable",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Atom Build provider for fable, transpiles F# to JavaScript",
   "repository": "https://github.com/idleberg/atom-build-fable",
   "license": "MIT",
